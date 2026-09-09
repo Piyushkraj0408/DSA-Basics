@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0110-balanced-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0110-balanced-binary-tree) |
@@ -78,5 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
