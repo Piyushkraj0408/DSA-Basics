@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0572-subtree-of-another-tree) |
