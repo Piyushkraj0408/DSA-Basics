@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
