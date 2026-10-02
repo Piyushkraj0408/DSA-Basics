@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0035-search-insert-position) |
 ## Tree
 |  |
 | ------- |
