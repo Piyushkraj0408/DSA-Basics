@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -262,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
