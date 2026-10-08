@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0257-binary-tree-paths) |
+| [0606-construct-string-from-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0606-construct-string-from-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
