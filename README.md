@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Linked List
