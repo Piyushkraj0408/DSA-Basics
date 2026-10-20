@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -365,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
