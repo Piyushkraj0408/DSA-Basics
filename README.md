@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0606-construct-string-from-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bracket Sequences
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1652-defuse-the-bomb) |
