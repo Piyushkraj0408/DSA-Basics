@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1052-grumpy-bookstore-owner) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0035-search-insert-position) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Tree
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1052-grumpy-bookstore-owner) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2024-maximize-the-confusion-of-an-exam) |
