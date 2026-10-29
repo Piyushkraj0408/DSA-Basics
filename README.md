@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1004-max-consecutive-ones-iii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0096-unique-binary-search-trees) |
+| [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
