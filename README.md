@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0096-unique-binary-search-trees) |
 | [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
