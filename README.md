@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1652-defuse-the-bomb](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0096-unique-binary-search-trees) |
 | [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Backtracking
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Sliding Window
 |  |
 | ------- |
