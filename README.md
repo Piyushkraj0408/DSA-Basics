@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0435-non-overlapping-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0713-subarray-product-less-than-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyushkraj0408/DSA-Basics/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
